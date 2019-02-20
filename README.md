@@ -1,4 +1,4 @@
-# 密碼龐克——自由與網際網路的未來
+# 密碼龐克—自由與網際網路的未來-繁中
 ![](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E6%9C%B1%E5%88%A9%E5%AE%89%C2%B7%E9%98%BF%E6%A1%91%E5%A5%87-orange.svg)
 ![](https://img.shields.io/badge/%E7%B0%A1%E4%B8%AD%E7%BF%BB%E8%AD%AF-Gavroche%20-lightgrey.svg)
 
