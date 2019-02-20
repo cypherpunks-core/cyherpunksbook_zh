@@ -4,10 +4,19 @@
 ![](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E6%9C%B1%E5%88%A9%E5%AE%89%C2%B7%E9%98%BF%E6%A1%91%E5%A5%87-orange.svg)
 ![](https://img.shields.io/badge/%E7%B0%A1%E4%B8%AD%E7%BF%BB%E8%AD%AF-Gavroche%20-lightgrey.svg)
 
+## 什麼是密碼龐克？
+
+密碼龐克提倡通過使用密碼術及其類似手段來實現社會和政治改革。[1]該運動形成於20世紀90年代早期，在90年代的“密碼戰爭”（cryptowars）和2011年的網際網路之春時期最為活躍。“密碼龐克”（cypherpunk）這個術語來自“cipher”（密碼）和“punk”（龐克），在2006年被收入《牛津英語詞典》。[2]
+
+
+
+[1] 簡單地説，密碼學（cryptography）這個術語來自希臘語的“密寫術”（secret writing），是一種通訊編碼措施。
+[2] “Oxford English Dictionary Updates Some Entries & Adds New Words;Bada-Bing,
+Cypherpunk,and Wi-Fi Now in the OED”，載於ResourceShelf，2006年9月16日，
+http://web.resourceshelf.com/go/resourceblog/43743（訪問於2012年10月24日）。
 
 ## 目錄
 
-* [什麼是密碼龐克？](什麼是密碼朋克？.md)    
 * [引言、對密碼武器的一個呼籲](引言、對密碼武器的一個呼籲.md)    
 * [第1章、討論參與者](第1章.md)    
 * [第2章、對維基解密及相關人員的各種迫害企圖的註釋](第2章.md)    
