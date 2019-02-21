@@ -30,6 +30,9 @@ http://web.resourceshelf.com/go/resourceblog/43743（訪問於2012年10月24日�
 * [第11章、弱者要隱私，強者要透明](第11章.md)    
 * [第12章、歌劇院裡的耗子](第12章.md)    
 
+相關連結：
+* 維基百科：[Cypherpunks: Freedom and the Future of the Internet](https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%AF%86%E6%9C%8B%E5%85%8B)
+
 ps. 勸告 內容為用於測試頻寬請於24H內刪除.本書僅供試看不得燒拷販賣,請購買原廠正版，遵守著作權相關法律條約。下載完後24小時內刪除,若私作為其他及商業用途而觸犯法律違法，後果請自行負責，概與本人無關。
 
 下載者請勿私作為商業用途及其他法律禁止行為而違法，請支持正版
