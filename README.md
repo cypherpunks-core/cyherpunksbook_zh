@@ -4,6 +4,8 @@
 ![](https://img.shields.io/badge/%E7%B0%A1%E4%B8%AD%E7%BF%BB%E8%AD%AF-Gavroche%20-lightgrey.svg)
 ![https://github.com/ChenPoWei](https://img.shields.io/badge/Translator-Chen%20Po%20Wei-blue.svg)    
 
+![](https://rukminim1.flixcart.com/image/1664/1664/book/3/7/0/cypherpunks-freedom-and-the-future-of-the-internet-original-imadkbjfh5nnbeyw.jpeg?q=90)
+
 ## 什麼是密碼龐克？
 
 密碼龐克提倡通過使用密碼技術及其類似手段來實現社會和政治改革。[1]該運動形成於20世紀90年代早期，在90年代的“密碼戰爭”（cryptowars）和2011年的網際網路之春時期最為活躍。“密碼龐克”（cypherpunk）這個術語來自“cipher”（密碼）和“punk”（龐克），在2006年被收入《牛津英語詞典》。[2]
